@@ -7,7 +7,7 @@ import { Engine } from "@tsparticles/engine";
 
 
 import KamiPFP from "../assets/KamiPFP.png";
-import kamiAddSS from "../assets/kamiAddSS.png";
+import kamiAddSS from "../assets/KamiAddSS.png";
 import kamicmdSS from "../assets/kamicmdSS.png";
 import kamiHelpSS from "../assets/kAMIHelpSS.png";
 
