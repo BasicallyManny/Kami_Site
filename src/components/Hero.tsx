@@ -7,9 +7,9 @@ import { Engine } from "@tsparticles/engine";
 
 
 import KamiPFP from "../assets/KamiPFP.png";
-import kamiAddSS from "../assets/kamiAddSS.png";
-import kamicmdSS from "../assets/kamicmdSS.png";
-import kamiHelpSS from "../assets/kAMIHelpSS.png";
+import kamiAddSS from "../assets/kamiAddSS.webp";
+import kamicmdSS from "../assets/kamicmdSS.webp";
+import kamiHelpSS from "../assets/kamiHelpSS.webp";
 
 // Define types for CustomButton props
 interface CustomButtonProps {
